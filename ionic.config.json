@@ -1,0 +1,8 @@
+{
+  "name": "octten",
+  "app_id": "421f12f9",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
